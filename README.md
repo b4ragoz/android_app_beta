@@ -7,7 +7,4 @@ This repository contains the beta version of an Android application. The project
 - Data fetching from API
 - Displaying data in a user-friendly interface
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/b4ragoz/android_app_beta.git
+
